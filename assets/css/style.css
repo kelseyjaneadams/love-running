@@ -1,7 +1,5 @@
 /* Google fonts import */
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200..700&display=swap');
-</style>
 
 /* Asterix wildcard selector to override default styles added by the browser */
 * {
